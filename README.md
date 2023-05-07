@@ -28,6 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=presscod&show_icons=true&locale=en" alt="presscod" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=presscod&" alt="presscod" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=presscod&" alt="presscod" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=presscod" alt="presscod" /></a> </p>
