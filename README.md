@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=presscod&label=Profile%20views&color=0e75b6&style=flat" alt="presscod" /> </p>
 
+
 <p align="left"> <a href="https://twitter.com/elmahfoudii01" target="blank"><img src="https://img.shields.io/twitter/follow/elmahfoudii01?logo=twitter&style=for-the-badge" alt="elmahfoudii01" /></a> </p>
 
 - 🔭 I’m currently working on **ALX SE**
@@ -16,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elmahfoudii01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elmahfoudii01" height="30" width="40" /></a>
-<a href="https://linkedin.com/el-mahfoudi-mohamed-957480151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-mahfoudi-mohamed-957480151" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/el-mahfoudi-mohamed-957480151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="el-mahfoudi-mohamed-957480151" height="30" width="40" /></a>
 <a href="https://medium.com/@mohamed.elmahfoudi23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamed.elmahfoudi23" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=presscod&show_icons=true&locale=en" alt="presscod" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=presscod&" alt="presscod" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=presscod" alt="presscod" /></a> </p>
